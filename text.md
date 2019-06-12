@@ -69,5 +69,7 @@ git remote add <仓库名> <仓库地址>  添加仓库
 ## 远程仓库
 
 1.GitHub
+
 2.GitLab
-需要自己的服务器搭建 公司搭建
+ 1)需要自己的服务器搭建 公司搭建
+ 2)获取ssh密钥：$ ssh-keygen -t rsa -C "eamil"
